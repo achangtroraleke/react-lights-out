@@ -1,0 +1,16 @@
+.Board {
+  margin: 0 auto;
+  background-color: bisque;
+  padding: 1rem;
+  border-radius: 15px;
+}
+
+.WinMessage{
+  margin: auto;
+  width: 50%;
+  font-size: 3rem;
+  font-weight: bold;
+  background-color: bisque;
+  padding: 1rem;
+  border-radius: 15px;
+}
